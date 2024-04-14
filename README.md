@@ -1,2 +1,2 @@
 # myDesignPatterns
-DesignPatterns write C++
+DesignPatterns write by C++
